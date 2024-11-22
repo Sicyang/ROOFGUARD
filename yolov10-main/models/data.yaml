@@ -1,0 +1,5 @@
+train: C:\Users\yqjys\Desktop\AIroof\yolov10-main\datasets\images\train
+val: C:\Users\yqjys\Desktop\AIroof\yolov10-main\datasets\images\val
+test: C:\Users\yqjys\Desktop\AIroof\yolov10-main\datasets\images\test
+names:
+  0: a pile of leaves
